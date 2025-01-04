@@ -1,4 +1,5 @@
-# FMinus TypeSystem [ CSE4050 Programming Language Prj4 ]
+# FMinus TypeSystem [
+CSE4050 Programming Language Prj4 ]
 
 The purpose of this project is to develop a type inference system for F Minus, a simplified F#.
 
