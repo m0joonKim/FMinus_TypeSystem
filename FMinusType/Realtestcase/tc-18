@@ -1,0 +1,5 @@
+let fst = fun x -> fun y -> x in
+let snd = fun x -> fun y -> y in
+fun x ->
+  let g y = if y = true then fst x y else snd x y in
+  x

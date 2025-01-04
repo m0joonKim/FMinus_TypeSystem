@@ -1,0 +1,3 @@
+let f = fun x -> x in
+let g y = y in
+fun z -> (if (f true) then g z else g 1)

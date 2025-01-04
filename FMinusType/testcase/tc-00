@@ -1,0 +1,4 @@
+let rec sum x = fun n ->
+    if n = 0 then x else (sum (x + n) (n - 1))
+in
+sum 0

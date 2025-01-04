@@ -1,0 +1,1 @@
+let f = (fun x -> x) in if (1 < 2) then (f 1) else (f (f 2))

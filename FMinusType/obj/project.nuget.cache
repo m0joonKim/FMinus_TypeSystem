@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "K6EyZglE4ps=",
+  "success": true,
+  "projectFilePath": "/Users/mjkim/Library/CloudStorage/OneDrive-Sogang/24-1/24_1_mjKim/pl/Lab4/FMinusType/FMinusType.fsproj",
+  "expectedPackageFiles": [
+    "/Users/mjkim/.nuget/packages/fsharp.core/8.0.403/fsharp.core.8.0.403.nupkg.sha512",
+    "/Users/mjkim/.nuget/packages/fslexyacc/11.2.0/fslexyacc.11.2.0.nupkg.sha512",
+    "/Users/mjkim/.nuget/packages/fslexyacc.runtime/11.2.0/fslexyacc.runtime.11.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}

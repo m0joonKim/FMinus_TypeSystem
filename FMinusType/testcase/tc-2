@@ -1,0 +1,1 @@
+let f x = x in if (1 < 2) then f 1 else f 2

@@ -1,0 +1,15 @@
+let x = 10 in
+let f x = 
+  let a = 1 in
+  let b = 2 in
+  let c = true in
+  x + a - b
+in
+let g x = 
+  let a = true in
+  let b = false in
+  let c = 1 in
+  if x then c else (if a then c + 1 else c - 1)
+in
+let app f = fun x -> f x in
+app f x + (let x = false in g x)

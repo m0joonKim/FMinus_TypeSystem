@@ -1,0 +1,3 @@
+let eq = (fun x -> (fun y -> x = y)) in
+let fst = (fun x -> (fun y -> x)) in
+if true then eq else fst

@@ -1,0 +1,6 @@
+let f x = x + 1 in
+let g x =
+  let h y = x in
+  h (x + 1)
+in
+g

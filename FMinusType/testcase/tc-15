@@ -1,0 +1,4 @@
+let eq = (fun x -> (fun y -> x = y)) in
+let neq = (fun x -> (fun y -> x <> y)) in
+let f b = if b then eq else neq in
+eq (fun x -> x) (fun y -> y + 1)

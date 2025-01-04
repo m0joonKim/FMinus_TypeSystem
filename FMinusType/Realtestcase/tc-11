@@ -1,0 +1,4 @@
+let rec sum acc = fun n ->
+  if n = 0 then acc else sum (acc + n) (n - 1)
+in
+sum

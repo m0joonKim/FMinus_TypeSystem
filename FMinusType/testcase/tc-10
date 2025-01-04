@@ -1,0 +1,1 @@
+let rec f x = (if x < 10 then f x else 0) in f 0
