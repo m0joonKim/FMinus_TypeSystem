@@ -1,4 +1,4 @@
-Type Inference (for F Minus)
+#H1 Type Inference (for F Minus)
 
 CSE4050 Programming Language Sogang Univ.
 
